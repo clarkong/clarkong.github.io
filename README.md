@@ -1,2 +1,2 @@
-# 🤖 Welcome to my website
-## [https://changkong.github.io/](https://changkong.github.io/)
+# 🤖 Welcome to Chang Kong's Website
+## [https://clarkong.github.io/](https://clarkong.github.io/)
