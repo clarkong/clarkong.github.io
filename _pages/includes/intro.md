@@ -1,0 +1,9 @@
+# 🤖 About Me
+- Dr. Kong is currently an Assistant Professor at Undergraduate School of Artificial Intelligence, Shenzhen Polytechnic University.
+
+- He received his B.S. (2011), M.S. (2014), and Ph.D. (2023) in Computer Science from Shenzhen University (SZU). His supervisor is [Prof. Guoliang Chen (CAS Academician)](https://nhpcc.szu.edu.cn/info/1015/1138.htm), co-supervised by [Prof. Mao Rui](https://nhpcc.szu.edu.cn/mao/) and [Assoc. Prof. Luo Qiuming](https://csse.szu.edu.cn/pages/user/index?id=532). After earning his Master's degree, he served as a Heterogeneous Computing Engineer at [Baidu Institute of Deep Learning (IDL)](https://research.baidu.com/Index) (2014-2015), Department Manager at [SenseTime](https://www.sensetime.com/cn) (2015-2017), and T4 Senior Algorithm Expert at [Zhejiang Dahua Advanced Technology Research Institute](https://www.dahuatech.com/technology.html) (2017-2018), specializing in R&D and product implementation of high-performance AI algorithms.
+
+- His research interests include computer vision, multimodal learning, and high-performance computing. Currently, he investigates fine-grained recognition and comprehension challenges within open-vocabulary learning systems. He has published over ten academic papers in international conferences and journals, and served as a reviewer for journals/conferences including IJCV, MM, TCSVT, and Machine Learn    ing. Additionally, he authored a professional textbook and co-translated a technical monograph.
+
+[//]:- Here is an extended CV ([pdf](cv/chen_cv.pdf)).
+
