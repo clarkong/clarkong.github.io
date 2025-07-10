@@ -49,5 +49,5 @@
 
 # 🌍Visitor Map
 <div style="float: left;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9qYRgq67gNxmoIZ0ukUurPIh1vuyzcIIi4YEiEG4ejA&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=9qYRgq67gNxmoIZ0ukUurPIh1vuyzcIIi4YEiEG4ejA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 </div>
