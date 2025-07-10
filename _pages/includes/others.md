@@ -31,8 +31,3 @@
   <span style="font-size: 100%;"> Baidu Institute of Deep Learning (IDL)</span>
   </p>
 
-<!--
-<div style="float: left;">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?"></script>
-</div>
--->
