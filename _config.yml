@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chang Kong"
+title                    : "Chang Kong 孔畅"
 description              : "Assistant Professor at SZPU"
 repository               : "clarkong/clarkong.github.io"
 #google_scholar_stats_use_cdn : true
@@ -24,12 +24,12 @@ author:
   name             : "Chang Kong"
   avatar           : "images/my-photo-2023.png"
   bio              : "孔畅"
-  location         : "China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cTP1wIIAAAAJ"
   email            : "clarkong89@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Chang-Kong-2"
+  researchgate     : #"https://www.researchgate.net/profile/Chang-Kong-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "clarkong"
+  github           : #"clarkong"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         :
   dblp             : "https://dblp.org/pid/25/10805.html"
-  orcid            : "https://orcid.org/0000-0002-1923-9877"
+  orcid            : #"https://orcid.org/0000-0002-1923-9877"
   openreview       : "https://openreview.net/profile?id=%7EChang_Kong1"
   semanticscholar  : "https://www.semanticscholar.org/author/Chang-Kong/14384229"
   pinterest        :
