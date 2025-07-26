@@ -5,7 +5,7 @@
 
 - FlashMLA-ETAP: Efficient Transpose Attention Pipeline for Accelerating MLA Inference on NVIDIA H20 GPUs<br/>
   Pengcuo Dege, Qiuming Luo, Rui Mao, **<u>Chang Kong</u>**<br/>
-  *32nd International Conference on Neural Information Processing (ICNIP)*
+  *2025 32nd International Conference on Neural Information Processing (ICONIP)*
 
 - Challenges and Benchmarking of Object Detection Models on Edge AI SoCs<br/>
   **<u>Chang Kong</u>**, Peng Mo, Tao Zeng, Qiuming Luo, Rui Mao<br/>
