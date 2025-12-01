@@ -3,8 +3,12 @@
 # 📝 Publications
 \* represents corresponding author.
 
+- SubCLIP: Fine-Grained Visual-Semantic Alignment via Subtext Decomposition<br/>
+  Quiming Luo, Peng Mo, Feng Li, Zhengxing Xiao, **<u>Chang Kong*</u>**<br/>
+  *2025 International Conference on Virtual Reality and Visualization (ICVRV)*
+
 - FlashMLA-ETAP: Efficient Transpose Attention Pipeline for Accelerating MLA Inference on NVIDIA H20 GPUs<br/>
-  Pengcuo Dege, Qiuming Luo, Rui Mao, **<u>Chang Kong</u>**<br/>
+  Pengcuo Dege, Qiuming Luo, Rui Mao, **<u>Chang Kong*</u>**<br/>
   *2025 32nd International Conference on Neural Information Processing (ICONIP)*
 
 - Challenges and Benchmarking of Object Detection Models on Edge AI SoCs<br/>
