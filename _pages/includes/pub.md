@@ -3,6 +3,28 @@
 # 📝 Publications
 \* represents corresponding author.
 
+## 2026
+- Entropy-Aware Structural Alignment for Zero-Shot Handwritten Chinese Character Recognition<br/>
+  Qiuming Luo, Tao Zeng, Feng Li, Heming Liu, Rui Mao, **<u>Chang Kong*</u>**<br/>
+  Pattern Recognition (PR) 2026
+
+- A Container‐Based, Web‐Accessible Experimental Platform for Remote FPGA Laboratories With Transparent Hardware Allocation<br/>
+  Qiuming Luo, Fanchen Mo, Kunzhong Wu, **<u>Chang Kong*</u>**<br/>
+  *Computer Applications in Engineering Education (CAE) 2026*
+
+- PRISM-Deblur: Parallel Routing of Implicit Spectral and Morphological Experts for High-Fidelity Deblurring in Non-Uniform Dynamic Scenes<br/>
+  Qiuming Luo, Jiaming Zhang, Haigang Zhang, **<u>Chang Kong*</u>**<br/>
+  *2026 International Conference on Intelligent Computing (ICIC) 2026*
+
+- PAND: prompt-aware neighborhood distillation for lightweight fine-grained visual classification<br/>
+  Qiuming Luo, Yuebing Li, Feng Li, **<u>Chang Kong*</u>**<br/>
+  *2026 IEEE International Conference on Image Processing (ICIP) 2026*
+
+- Object detection on low-compute edge SoCs: a reproducible benchmark and deployment guidelines<br/>
+  **<u>Chang Kong</u>**, Feng Li, Xiaohu Yan, Jinfeng Yang, Peng Mo, Qiuming Luo, Rui Mao<br/>
+  *Scientific Reports (SR) 2025*
+
+## 2025
 - SubCLIP: Fine-Grained Visual-Semantic Alignment via Subtext Decomposition<br/>
   Quiming Luo, Peng Mo, Feng Li, Zhengxing Xiao, **<u>Chang Kong*</u>**<br/>
   *2025 International Conference on Virtual Reality and Visualization (ICVRV)*
@@ -23,9 +45,10 @@
   Qiuming Luo, Tao Zeng, Xuan Wei, **<u>Chang Kong*</u>**<br/>
   *The 19th International Conference on Document Analysis and Recognition 2025 (ICDAR)*
 
+## - 2023
 - Deep Multi-Input Multi-Stream Ordinal Model for age estimation: Based on spatial attention learning<br/>
   **<u>Chang Kong</u>**, Haitao Wang, Qiuming Luo, Rui Mao, Guoliang Chen<br/>
-  *Future Generation Computer Systems 2023 (FGCS)*
+  *Future Generation Computer Systems (FGCS) 2023*
 
 - Learning Deep Contrastive Network for Facial Age Estimation<br/>
   **<u>Chang Kong</u>**, Qiuming Luo, Guoliang Chen<br/>

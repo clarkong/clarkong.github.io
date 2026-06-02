@@ -3,9 +3,9 @@
 
 # 🔥 News
 
-- **[paper] 2025**: Our paper on SubCLIP: Fine-Grained Visual-Semantic Alignment via Subtext Decomposition is accepted in ICVRV2025.
-- **[paper] 2025**: Our paper on FlashMLA-ETAP: Efficient Transpose Attention Pipeline for Accelerating MLA Inference on NVIDIA H20 GPUs is accepted in ICONIP2025.
-- **[paper] 2025**: Our paper on Radical Sequence Encoding with Fine-Tuned CLIP for Handwritten Chinese Character Recognition is accepted in ICDAR2025.
-- **[paper] 2025**: Our paper on Challenges and Benchmarking of Object Detection Models on Edge AI SoCs is accepted in ICIC2025.
-- **[paper] 2025**: Our paper on FPGA-Accelerated Error Diffusion Halftoning for High-Throughput Wide-Format Industrial Printing is accepted in CGI2025.
+- **[paper] 2026**: Our paper on Entropy-Aware Structural Alignment for Zero-Shot Handwritten Chinese Character Recognition accepted in PR.
+- **[paper] 2026**: Our paper on A Container‐Based, Web‐Accessible Experimental Platform for Remote FPGA Laboratories With Transparent Hardware Allocation is accepted in CAE.
+- **[paper] 2026**: Our paper on PRISM-Deblur: Parallel Routing of Implicit Spectral and Morphological Experts for High-Fidelity Deblurring in Non-Uniform Dynamic Scenes is accepted in ICIC2026.
+- **[paper] 2026**: Our paper on PAND: prompt-aware neighborhood distillation for lightweight fine-grained visual classification is accepted in ICIP2026.
+- **[paper] 2026**: Our paper on Object detection on low-compute edge SoCs: a reproducible benchmark and deployment guidelines is accepted in SR.
 
