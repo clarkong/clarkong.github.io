@@ -6,7 +6,7 @@
 ## 2026
 - Entropy-Aware Structural Alignment for Zero-Shot Handwritten Chinese Character Recognition<br/>
   Qiuming Luo, Tao Zeng, Feng Li, Heming Liu, Rui Mao, **<u>Chang Kong*</u>**<br/>
-  Pattern Recognition (PR) 2026
+  *Pattern Recognition (PR) 2026*
 
 - A Container‐Based, Web‐Accessible Experimental Platform for Remote FPGA Laboratories With Transparent Hardware Allocation<br/>
   Qiuming Luo, Fanchen Mo, Kunzhong Wu, **<u>Chang Kong*</u>**<br/>
@@ -22,7 +22,7 @@
 
 - Object detection on low-compute edge SoCs: a reproducible benchmark and deployment guidelines<br/>
   **<u>Chang Kong</u>**, Feng Li, Xiaohu Yan, Jinfeng Yang, Peng Mo, Qiuming Luo, Rui Mao<br/>
-  *Scientific Reports (SR) 2025*
+  *Scientific Reports (SR) 2026*
 
 ## 2025
 - SubCLIP: Fine-Grained Visual-Semantic Alignment via Subtext Decomposition<br/>
